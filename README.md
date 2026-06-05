@@ -2,7 +2,7 @@
 
 > **Discover Opportunities. Build Solutions. Create Impact.**
 
-**Beyond Borders** is an open innovation intelligence repository by [The Purple Movement](https://thepurplemovement.org). We handpick frontier companies and emerging technologies, then map them into high-impact use cases, problem statements, open projects, research directions, and startup opportunities — for the world to build on.
+**Beyond Borders** is an open innovation intelligence repository by [The Purple Movement](https://purple-movement.com/). We handpick frontier companies and emerging technologies, then map them into high-impact use cases, problem statements, open projects, research directions, and startup opportunities — for the world to build on.
 
 This is not a code repository. It is a living knowledge base where students, founders, researchers, mentors, companies, and ecosystem builders come together to identify real problems and build real solutions.
 
