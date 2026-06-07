@@ -49,7 +49,7 @@ Feasibility measures whether the proposed solution can be built with technology 
 | 7–8 | Technology is research-proven; engineering is significant but clear |
 | 5–6 | Key components exist but integration is unproven at required scale |
 | 3–4 | Requires significant technology breakthroughs |
-| 1–2 | Science fiction level — not buildable with current knowledge |
+| 1–2 | Science fiction level - not buildable with current knowledge |
 
 **Evaluation Questions:**
 - What is the most technically uncertain component?
@@ -75,7 +75,7 @@ Viability measures the strength of the business model and path to revenue.
 | 1–2 | No clear revenue path |
 
 **Evaluation Questions:**
-- Who pays — the user, an intermediary, or the government?
+- Who pays - the user, an intermediary, or the government?
 - What is the realistic price point and purchasing process?
 - What are the unit economics at scale?
 - What is the customer acquisition cost vs. lifetime value?
@@ -109,9 +109,9 @@ Strategic fit evaluates the timing, team, and technology advantage.
 
 | Overall Score | Recommendation |
 |---|---|
-| 8.0–10 | High priority — pursue aggressively |
-| 6.5–7.9 | Strong candidate — validate key uncertainties first |
-| 5.0–6.4 | Interesting but risky — address specific weak dimensions |
+| 8.0–10 | High priority - pursue aggressively |
+| 6.5–7.9 | Strong candidate - validate key uncertainties first |
+| 5.0–6.4 | Interesting but risky - address specific weak dimensions |
 | Below 5.0 | Not recommended without major rethinking |
 
 **Note:** A score of 10/10 on Desirability does not compensate for 3/10 on Viability. All four dimensions must reach at least 6/10 for a problem to be worth pursuing as a startup.
@@ -121,7 +121,7 @@ Strategic fit evaluates the timing, team, and technology advantage.
 ## How to Use This Framework
 
 1. Score each dimension independently before discussing with others (avoid anchoring bias)
-2. Document the evidence behind each score — not just the number
+2. Document the evidence behind each score - not just the number
 3. Identify the single biggest uncertainty in your assessment
 4. Use the score as a starting point for conversation, not a final verdict
 5. Revisit scores after talking to 5 potential customers

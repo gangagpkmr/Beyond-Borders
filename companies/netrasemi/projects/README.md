@@ -1,4 +1,4 @@
-# Netrasemi — Open Projects
+# Netrasemi - Open Projects
 
 This folder contains open-source project ideas and active projects built on Netrasemi's Edge AI technology.
 

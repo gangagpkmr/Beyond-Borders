@@ -1,10 +1,10 @@
-# Netrasemi — Technology Overview
+# Netrasemi - Technology Overview
 
 ---
 
 ## Core Technology: Edge AI Chips
 
-Netrasemi builds specialized semiconductor chips designed to run AI inference workloads at the edge — on the device, in the field, in real time.
+Netrasemi builds specialized semiconductor chips designed to run AI inference workloads at the edge - on the device, in the field, in real time.
 
 ### What Is Edge AI?
 
@@ -28,19 +28,19 @@ Edge AI refers to AI inference that happens on the device where data is generate
 ## Key Technical Capabilities
 
 ### 1. Real-Time Computer Vision
-Netrasemi chips process image and video streams in real time. Applications include object detection, defect inspection, person identification, crop disease recognition, gesture recognition, and scene understanding — all running locally on the device.
+Netrasemi chips process image and video streams in real time. Applications include object detection, defect inspection, person identification, crop disease recognition, gesture recognition, and scene understanding - all running locally on the device.
 
 ### 2. Multi-Sensor Fusion
 The chips integrate data from multiple sensor types simultaneously: RGB cameras, thermal cameras, depth sensors (LiDAR/ToF), acoustic sensors, vibration sensors, and environmental sensors. This enables richer situational awareness than any single sensor can provide.
 
 ### 3. On-Device Model Inference
-Pre-trained neural network models — CNNs, transformers, and custom architectures — are compiled and deployed directly onto the chip. The chip executes these models at high throughput and low power without requiring a host CPU for AI workloads.
+Pre-trained neural network models - CNNs, transformers, and custom architectures - are compiled and deployed directly onto the chip. The chip executes these models at high throughput and low power without requiring a host CPU for AI workloads.
 
 ### 4. Low Power Architecture
 Designed for always-on operation in field and industrial environments. Can run on battery, solar, or industrial power, enabling deployment in locations without grid infrastructure.
 
 ### 5. Privacy-Preserving Architecture
-Sensitive data — medical images, biometrics, industrial processes — never leaves the device. AI decisions are made locally, and only structured outputs (alerts, classifications, counts) are transmitted if connectivity is available.
+Sensitive data - medical images, biometrics, industrial processes - never leaves the device. AI decisions are made locally, and only structured outputs (alerts, classifications, counts) are transmitted if connectivity is available.
 
 ### 6. Robustness and Environmental Resilience
 Built for real-world deployment: temperature extremes, dust, vibration, humidity. Not a lab chip.
@@ -117,7 +117,7 @@ This describes most of the world's most important and underserved industries.
 - [Edge AI: Technical Primer](https://arxiv.org/abs/2102.00891)
 - [TinyML and Edge Machine Learning](https://www.tinyml.org/)
 - [India Chip Design Ecosystem](https://www.semicon.org.in/)
-- [Computer Vision at the Edge — Survey Paper](#)
+- [Computer Vision at the Edge - Survey Paper](#)
 
 ---
 

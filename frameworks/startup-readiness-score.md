@@ -8,7 +8,7 @@
 
 The Startup Readiness Score (SRS) is a structured assessment tool used in Beyond Borders to evaluate how ready a problem statement or startup concept is for actual execution.
 
-Unlike the Evaluation Framework (which scores the opportunity itself), the SRS scores the *readiness of a team to pursue the opportunity* — covering problem understanding, solution clarity, team capability, market knowledge, and execution plan.
+Unlike the Evaluation Framework (which scores the opportunity itself), the SRS scores the *readiness of a team to pursue the opportunity* - covering problem understanding, solution clarity, team capability, market knowledge, and execution plan.
 
 ---
 

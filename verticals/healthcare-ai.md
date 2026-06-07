@@ -8,18 +8,18 @@
 
 Healthcare AI applies machine learning to diagnostics, monitoring, treatment support, and health system management. Edge AI in healthcare is transformative specifically because 60% of the global disease burden is carried by people in low-resource settings with no access to radiologists, pathologists, or specialist physicians.
 
-India's doctor-to-patient ratio is 1:1,457 (WHO recommends 1:1,000). The gap is not closable with human doctors alone. Edge AI can put diagnostic capability — chest X-ray reading, ECG interpretation, retinal screening — in the hands of a rural nurse or ASHA worker.
+India's doctor-to-patient ratio is 1:1,457 (WHO recommends 1:1,000). The gap is not closable with human doctors alone. Edge AI can put diagnostic capability - chest X-ray reading, ECG interpretation, retinal screening - in the hands of a rural nurse or ASHA worker.
 
 ---
 
 ## Core Problem Areas
 
-- **Diagnostic AI** — Radiology, pathology, dermatology at the point of care
-- **Patient monitoring** — Continuous, non-invasive monitoring for high-risk patients
-- **Maternal and neonatal health** — Monitoring and early warning in resource-limited settings
-- **Infectious disease surveillance** — Real-time disease mapping and outbreak detection
-- **Surgical intelligence** — Intraoperative guidance and safety systems
-- **Drug adherence** — Monitoring TB, HIV, and chronic disease treatment compliance
+- **Diagnostic AI** - Radiology, pathology, dermatology at the point of care
+- **Patient monitoring** - Continuous, non-invasive monitoring for high-risk patients
+- **Maternal and neonatal health** - Monitoring and early warning in resource-limited settings
+- **Infectious disease surveillance** - Real-time disease mapping and outbreak detection
+- **Surgical intelligence** - Intraoperative guidance and safety systems
+- **Drug adherence** - Monitoring TB, HIV, and chronic disease treatment compliance
 
 ---
 
@@ -40,9 +40,9 @@ Healthcare AI is regulated as a Software as a Medical Device (SaMD). Key bodies:
 
 ## Key Datasets and Research
 
-- [NIH ChestX-ray14](https://nihcc.app.box.com/v/ChestXray-NIHCC) — 112,000+ chest X-rays
-- [ISIC Archive](https://www.isic-archive.com/) — Dermoscopy images for skin lesion classification
-- [PhysioNet](https://physionet.org/) — Clinical and physiological datasets
+- [NIH ChestX-ray14](https://nihcc.app.box.com/v/ChestXray-NIHCC) - 112,000+ chest X-rays
+- [ISIC Archive](https://www.isic-archive.com/) - Dermoscopy images for skin lesion classification
+- [PhysioNet](https://physionet.org/) - Clinical and physiological datasets
 
 ---
 
@@ -51,7 +51,7 @@ Healthcare AI is regulated as a Software as a Medical Device (SaMD). Key bodies:
 | Company | Technology | Status in Beyond Borders |
 |---|---|---|
 | [Netrasemi](../companies/netrasemi/) | Edge AI Chips | ✅ Active |
-| Others | — | 🔜 Coming Soon |
+| Others | - | 🔜 Coming Soon |
 
 ---
 

@@ -6,13 +6,13 @@ Thank you for contributing to Beyond Borders. This repository grows through the 
 
 ## What You Can Contribute
 
-- **Problem Statements** — A structured, well-researched problem in a specific vertical
-- **Use Cases** — Detailed application of a frontier technology to a real-world domain
-- **Project Ideas** — Open-source projects others can build and contribute to
-- **Startup Opportunities** — Validated startup concepts with market analysis
-- **Research Directions** — Open questions and research gaps worth investigating
-- **Company Profiles** — A new company entry following the company template
-- **Framework Improvements** — Better ways to evaluate ideas, score startups, or review contributions
+- **Problem Statements** - A structured, well-researched problem in a specific vertical
+- **Use Cases** - Detailed application of a frontier technology to a real-world domain
+- **Project Ideas** - Open-source projects others can build and contribute to
+- **Startup Opportunities** - Validated startup concepts with market analysis
+- **Research Directions** - Open questions and research gaps worth investigating
+- **Company Profiles** - A new company entry following the company template
+- **Framework Improvements** - Better ways to evaluate ideas, score startups, or review contributions
 
 ---
 

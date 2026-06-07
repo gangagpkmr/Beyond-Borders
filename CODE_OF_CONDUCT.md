@@ -41,7 +41,7 @@ To report a violation, contact the maintainers at [The Purple Movement community
 
 ## Scope
 
-This Code of Conduct applies to all spaces managed by Beyond Borders — the GitHub repository, pull requests, issues, community forums, and any related events or communications.
+This Code of Conduct applies to all spaces managed by Beyond Borders - the GitHub repository, pull requests, issues, community forums, and any related events or communications.
 
 ---
 

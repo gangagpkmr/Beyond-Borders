@@ -7,16 +7,16 @@
 ## A
 
 **Actuator**
-A device that converts an AI decision into a physical action — opening a valve, triggering an alarm, moving a robot arm.
+A device that converts an AI decision into a physical action - opening a valve, triggering an alarm, moving a robot arm.
 
 **AIS (Automatic Identification System)**
 A maritime tracking system that transmits vessel identity, position, speed, and course. Used for collision avoidance and vessel traffic management.
 
 **Anomaly Detection**
-An AI technique that identifies patterns that deviate significantly from a learned baseline — used for predictive maintenance, fraud detection, and safety monitoring.
+An AI technique that identifies patterns that deviate significantly from a learned baseline - used for predictive maintenance, fraud detection, and safety monitoring.
 
 **AutoML**
-Automated Machine Learning — tools that automate the process of building, training, and optimizing ML models, reducing the need for specialized ML expertise.
+Automated Machine Learning - tools that automate the process of building, training, and optimizing ML models, reducing the need for specialized ML expertise.
 
 ---
 
@@ -33,13 +33,13 @@ The accumulation of marine organisms (barnacles, algae, mussels) on ship hulls a
 ## C
 
 **CDSCO**
-Central Drugs Standard Control Organisation — India's regulatory body for medical devices and pharmaceutical products. AI diagnostic tools require CDSCO approval as Software as a Medical Device (SaMD).
+Central Drugs Standard Control Organisation - India's regulatory body for medical devices and pharmaceutical products. AI diagnostic tools require CDSCO approval as Software as a Medical Device (SaMD).
 
 **CNN (Convolutional Neural Network)**
 A class of deep learning models particularly effective for image and video analysis. The backbone of most computer vision applications.
 
 **Computer Vision**
-A field of AI that enables machines to interpret and understand visual information from the world — images, video, depth data.
+A field of AI that enables machines to interpret and understand visual information from the world - images, video, depth data.
 
 **CPA (Closest Point of Approach)**
 A maritime navigation calculation that determines how close two vessels will come to each other if they maintain their current course and speed.
@@ -68,7 +68,7 @@ The ability of an AI system to explain its decisions in terms understandable to 
 A collective of farmers organized as a legal entity to aggregate production, access markets, and negotiate collectively. A key distribution channel for agricultural technology in India.
 
 **Federated Learning**
-A machine learning approach where models are trained across decentralized devices without sharing raw data — the data stays on device; only model updates are shared.
+A machine learning approach where models are trained across decentralized devices without sharing raw data - the data stays on device; only model updates are shared.
 
 ---
 
@@ -121,7 +121,7 @@ The integration of data from multiple sensor types (camera, lidar, thermal, acou
 India's specialized force for disaster response, with 16 battalions trained for flood, earthquake, chemical, and biological disaster response.
 
 **NHM (National Health Mission)**
-India's flagship public health program, providing healthcare funding and infrastructure to states — a key procurement channel for healthcare AI products.
+India's flagship public health program, providing healthcare funding and infrastructure to states - a key procurement channel for healthcare AI products.
 
 ---
 
@@ -174,7 +174,7 @@ A surgical instrument, sponge, or foreign body accidentally left inside a patien
 AI/software that performs a medical function without being part of a physical medical device. Regulated by CDSCO in India, FDA in the US.
 
 **Semantic Segmentation**
-An AI technique that classifies every pixel in an image into a category — useful for crop analysis, road detection, and medical imaging.
+An AI technique that classifies every pixel in an image into a category - useful for crop analysis, road detection, and medical imaging.
 
 **Solar-powered IoT**
 Devices powered by photovoltaic cells, enabling indefinite deployment without grid infrastructure. Critical for remote agricultural, environmental, and disaster monitoring.
@@ -197,10 +197,10 @@ The field of deploying machine learning models on extremely resource-constrained
 ## V
 
 **Vertical**
-In this repository, a vertical refers to an industry sector or application domain — Agriculture AI, Healthcare AI, Manufacturing AI, etc.
+In this repository, a vertical refers to an industry sector or application domain - Agriculture AI, Healthcare AI, Manufacturing AI, etc.
 
 **Vision AI**
-AI systems specialized for analyzing visual data — images, video, depth maps. The most active and impactful subfield of Edge AI for physical-world applications.
+AI systems specialized for analyzing visual data - images, video, depth maps. The most active and impactful subfield of Edge AI for physical-world applications.
 
 ---
 

@@ -1,4 +1,4 @@
-# Netrasemi — robotics ai Use Cases
+# Netrasemi - robotics ai Use Cases
 
 This folder contains problem statements, use cases, and innovation opportunities for Netrasemi's Edge AI technology in the robotics ai domain.
 
@@ -8,9 +8,9 @@ This folder contains problem statements, use cases, and innovation opportunities
 
 | File | Title | Startup Score |
 |---|---|---|
-| ps-01.md | _See file_ | — |
-| ps-02.md | _See file_ | — |
-| ps-03.md | _See file_ | — |
+| ps-01.md | _See file_ | - |
+| ps-02.md | _See file_ | - |
+| ps-03.md | _See file_ | - |
 
 ---
 

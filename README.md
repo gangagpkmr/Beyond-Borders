@@ -2,7 +2,7 @@
 
 > **Discover Opportunities. Build Solutions. Create Impact.**
 
-**Beyond Borders** is an open innovation intelligence repository by [The Purple Movement](https://purple-movement.com/). We handpick frontier companies and emerging technologies, then map them into high-impact use cases, problem statements, open projects, research directions, and startup opportunities — for the world to build on.
+**Beyond Borders** is an open innovation intelligence repository by [The Purple Movement](https://purple-movement.com/). We handpick frontier companies and emerging technologies, then map them into high-impact use cases, problem statements, open projects, research directions, and startup opportunities - for the world to build on.
 
 This is not a code repository. It is a living knowledge base where students, founders, researchers, mentors, companies, and ecosystem builders come together to identify real problems and build real solutions.
 
@@ -10,11 +10,11 @@ This is not a code repository. It is a living knowledge base where students, fou
 
 ## Why Beyond Borders?
 
-The most important problems in the world — in agriculture, healthcare, manufacturing, maritime, disaster response, and beyond — are unsolved not because solutions don't exist, but because the right people haven't yet connected with the right technologies.
+The most important problems in the world - in agriculture, healthcare, manufacturing, maritime, disaster response, and beyond - are unsolved not because solutions don't exist, but because the right people haven't yet connected with the right technologies.
 
 Beyond Borders closes that gap.
 
-We take frontier technologies from companies building the future and translate them into structured opportunities that anyone — anywhere in the world — can pick up and run with.
+We take frontier technologies from companies building the future and translate them into structured opportunities that anyone - anywhere in the world - can pick up and run with.
 
 ---
 
@@ -34,7 +34,7 @@ Technology → Opportunity → Use Case → Project → Prototype → Startup �
 | **Project** | An open-source project or research effort to build it |
 | **Prototype** | A working proof-of-concept or MVP |
 | **Startup** | A venture built around the solution |
-| **Impact** | Real-world change — economic, social, or environmental |
+| **Impact** | Real-world change - economic, social, or environmental |
 
 ---
 
@@ -65,6 +65,7 @@ Each company entry includes:
 | Company | Focus | Status |
 |---|---|---|
 | [Netrasemi](./companies/netrasemi/) | Edge AI Chips | ✅ Active |
+| [Google Gemma 4](./companies/google-gemma4/) | Open Large Language Models | ✅ Active |
 | OpenAI | Foundation Models | 🔜 Coming Soon |
 | NVIDIA | AI Infrastructure | 🔜 Coming Soon |
 | DeepMind | AI Research | 🔜 Coming Soon |
@@ -78,7 +79,7 @@ Each company entry includes:
 
 ## About The Purple Movement
 
-**The Purple Movement** is a global community of builders, thinkers, and doers committed to solving hard problems with technology. We believe that the next generation of world-changing startups will come from unexpected places — from students in tier-2 cities, researchers in emerging economies, and founders who understand local problems better than anyone.
+**The Purple Movement** is a global community of builders, thinkers, and doers committed to solving hard problems with technology. We believe that the next generation of world-changing startups will come from unexpected places - from students in tier-2 cities, researchers in emerging economies, and founders who understand local problems better than anyone.
 
 Beyond Borders is our open infrastructure for turning frontier technology into frontier opportunity.
 
@@ -88,12 +89,12 @@ Beyond Borders is our open infrastructure for turning frontier technology into f
 
 ## Who Is This For?
 
-- **Students** — Pick up a problem statement and build a prototype
-- **Founders** — Find a validated startup opportunity backed by real technology
-- **Researchers** — Identify open research directions in your domain
-- **Mentors & Investors** — Discover what the next generation is building
-- **Companies** — See how your technology can address real-world problems
-- **Ecosystem Builders** — Use this as a foundation for hackathons, accelerators, and programs
+- **Students** - Pick up a problem statement and build a prototype
+- **Founders** - Find a validated startup opportunity backed by real technology
+- **Researchers** - Identify open research directions in your domain
+- **Mentors & Investors** - Discover what the next generation is building
+- **Companies** - See how your technology can address real-world problems
+- **Ecosystem Builders** - Use this as a foundation for hackathons, accelerators, and programs
 
 ---
 

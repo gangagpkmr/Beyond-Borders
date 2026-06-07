@@ -8,7 +8,7 @@
 
 Edge AI systems are deployed in farms, hospitals, factories, forests, and conflict zones. They make decisions that affect livelihoods, health, safety, and lives. The people affected by these decisions often have the least power to contest them.
 
-Building Edge AI responsibly requires more than good engineering. It requires a clear set of principles that guide every design decision — from what data to collect, to how to handle failure, to who controls the system.
+Building Edge AI responsibly requires more than good engineering. It requires a clear set of principles that guide every design decision - from what data to collect, to how to handle failure, to who controls the system.
 
 The following principles are the foundation of how Beyond Borders evaluates and advocates for Edge AI systems.
 
@@ -16,7 +16,7 @@ The following principles are the foundation of how Beyond Borders evaluates and 
 
 ## Principle 1: Intelligence Without Dependency
 
-Edge AI systems must function fully without connectivity. A system that fails when the internet is unavailable is not an edge system — it is a cloud system with an unreliable last mile.
+Edge AI systems must function fully without connectivity. A system that fails when the internet is unavailable is not an edge system - it is a cloud system with an unreliable last mile.
 
 **What this means in practice:**
 - Core AI inference runs on-device
@@ -27,7 +27,7 @@ Edge AI systems must function fully without connectivity. A system that fails wh
 
 ## Principle 2: Privacy by Architecture
 
-Data privacy must be built into the system architecture, not bolted on as a policy. Sensitive data — medical images, biometric patterns, private agricultural data, personal behavior — must never leave the device without explicit user consent.
+Data privacy must be built into the system architecture, not bolted on as a policy. Sensitive data - medical images, biometric patterns, private agricultural data, personal behavior - must never leave the device without explicit user consent.
 
 **What this means in practice:**
 - Raw sensor data (video, audio, biometrics) stays on device
@@ -39,19 +39,19 @@ Data privacy must be built into the system architecture, not bolted on as a poli
 
 ## Principle 3: Explainable Decisions
 
-When an Edge AI system makes a decision that affects a person — a diagnosis, a safety alert, a grading outcome — the basis for that decision must be understandable to the person it affects.
+When an Edge AI system makes a decision that affects a person - a diagnosis, a safety alert, a grading outcome - the basis for that decision must be understandable to the person it affects.
 
 **What this means in practice:**
 - Visual explanations (heatmaps, bounding boxes) accompany classification decisions
 - Confidence scores are displayed, not hidden
-- "I don't know" is a valid and important output — models must express uncertainty
+- "I don't know" is a valid and important output - models must express uncertainty
 - No black-box decisions without appeal mechanisms
 
 ---
 
 ## Principle 4: Graceful Degradation
 
-Edge AI systems are deployed in harsh, unpredictable environments. They will encounter conditions their training data never included. They must fail safely — providing less intelligence, not wrong intelligence.
+Edge AI systems are deployed in harsh, unpredictable environments. They will encounter conditions their training data never included. They must fail safely - providing less intelligence, not wrong intelligence.
 
 **What this means in practice:**
 - Out-of-distribution inputs trigger "low confidence" mode, not false predictions
@@ -87,7 +87,7 @@ Edge AI systems should augment human judgment, not replace it, wherever decision
 
 ## Principle 7: Continuous Improvement Without Surveillance
 
-Edge AI systems must improve over time — but the data collection for improvement must not become surveillance infrastructure.
+Edge AI systems must improve over time - but the data collection for improvement must not become surveillance infrastructure.
 
 **What this means in practice:**
 - Model improvement uses aggregated, de-identified feedback

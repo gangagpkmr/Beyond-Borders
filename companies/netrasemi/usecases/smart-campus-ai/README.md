@@ -1,4 +1,4 @@
-# Netrasemi — smart campus ai Use Cases
+# Netrasemi - smart campus ai Use Cases
 
 This folder contains problem statements, use cases, and innovation opportunities for Netrasemi's Edge AI technology in the smart campus ai domain.
 
@@ -8,9 +8,9 @@ This folder contains problem statements, use cases, and innovation opportunities
 
 | File | Title | Startup Score |
 |---|---|---|
-| ps-01.md | _See file_ | — |
-| ps-02.md | _See file_ | — |
-| ps-03.md | _See file_ | — |
+| ps-01.md | _See file_ | - |
+| ps-02.md | _See file_ | - |
+| ps-03.md | _See file_ | - |
 
 ---
 

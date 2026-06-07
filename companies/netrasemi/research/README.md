@@ -1,4 +1,4 @@
-# Netrasemi — Research Directions
+# Netrasemi - Research Directions
 
 This folder documents open research questions and directions relevant to Netrasemi's Edge AI technology and its applications.
 

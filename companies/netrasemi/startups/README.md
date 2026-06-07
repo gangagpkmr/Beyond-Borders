@@ -1,4 +1,4 @@
-# Netrasemi — Startup Opportunities
+# Netrasemi - Startup Opportunities
 
 This folder documents validated startup concepts built on Netrasemi's Edge AI technology.
 
@@ -10,7 +10,7 @@ Each startup opportunity includes a full analysis: problem, solution, business m
 
 1. Copy the [Startup Template](../../../startup-template.md)
 2. Name your file: `[vertical]-[startup-concept].md` (e.g., `agriculture-crop-sentinel.md`)
-3. Fill in all sections — especially business model and market sizing
+3. Fill in all sections - especially business model and market sizing
 4. Open a pull request
 
 ---
@@ -21,7 +21,7 @@ _No startup opportunities documented yet. Be the first._
 
 | Concept | Vertical | Readiness Score | Contributors |
 |---|---|---|---|
-| — | — | — | — |
+| - | - | - | - |
 
 ---
 
